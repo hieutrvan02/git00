@@ -1,0 +1,16 @@
+body {
+    background-color: #f47b0a;
+}
+
+h1 {
+    margin: 20px auto;
+    text-align: center;
+}
+
+p {
+    margin: 0 auto;
+}
+
+.container {
+    background-color: white;
+}
